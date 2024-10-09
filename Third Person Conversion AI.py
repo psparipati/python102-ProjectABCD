@@ -8,8 +8,8 @@ import json
 load_dotenv()
 
 # defining the API key in two places
-openai.api_key = "sk-proj-cFNubZ22uUiRcql5xP5xT3BlbkFJadrSDqaBdEtxFP1TaK1J"
-client = OpenAI(api_key="sk-proj-cFNubZ22uUiRcql5xP5xT3BlbkFJadrSDqaBdEtxFP1TaK1J")
+openai.api_key = "You will never get to know"
+client = OpenAI(api_key="You will never get to know")
 
 # every abcd id that has the tag "shero"
 abcd_ids = [26, 27, 28, 29, 30, 31, 32, 33, 39, 50, 52, 53, 101, 102, 110, 111, 112, 114, 115, 116, 117, 119, 151,
